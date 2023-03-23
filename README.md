@@ -1,6 +1,6 @@
 # TREE-UE2-BIF-DUA-2-SS2023-ALGOS-DE-
 
-C:\Users\alex_\IdeaProjects\TREE-UE2-BIF-DUA-2-SS2023-ALGOS-DE--main
+++++FOR FUN++++ ist eine JAVA(hat erstaunlich gut funkt.) clone des C# Programms https://github.com/ANcpLua/TREE-UE2-BIF-DUA-2-SS2023-ALGOS-DE
 
 TREE-UE2-BIF-DUA-2-SS2023-ALGOS-DE
 Alexander Nachtmann und Stephanie Rauscher ÜBUNG 2 - TREECHECK aka Baum lesen und suchen
