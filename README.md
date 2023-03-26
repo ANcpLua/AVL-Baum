@@ -18,6 +18,6 @@ Manual:
 3. on the top right click edit configuration and click on the "+" select Application 
 4. open this gyazo screenshot and reproduce it  https://i.gyazo.com/70fcda7faccafec74266250f06aac42e.png
 5. Click apply and press SHIFT+F10
-6. The programm should now work and display results into the terminal, if you want to change the keys change the integers(keep the format \n) inside filename-subtree.txt
+6. The programm should now work and display results into the terminal, if you want to change the keys change the integers(keep the format \n for propper input) inside filename-subtree.txt
 
 Any questions you can contact me on Discord Alex22#8812
