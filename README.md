@@ -1,9 +1,4 @@
-# TREE-UE2-BIF-DUA-2-SS2023-ALGOS-DE-
-```++++JUST FOR FUN++++```  
 
-Unser C# Projekt in Java-Code geändert. Es hat erstaunlich gut geklappt     ```??Hidden java main??```
-
-Der C#-Code als Referenz https://github.com/ANcpLua/TREE-UE2-Cs-BIF-DUA-2-SS2023-ALGOS-DE
 
 Environment IntelliJ IDEA 2022.3.3
 
